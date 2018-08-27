@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="166935fc-9ca5-4a6e-8a30-0b062fad1ca8" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/clientslogo/上海东湖机械厂.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/clientslogo/中国电子科技集团公司第二十八研究所.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/clientslogo/中国航天科工集团第二研究院、第三研究院.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/clientslogo/中国船舶工业系统工程研究院.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/clientslogo/中船重工716研究所.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/clientslogo/北京国遥新天地信息技术有限公司.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/clientslogo/海丰通航科技有限公司.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
     </list>
@@ -56,17 +63,17 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="274" column="81" lean-forward="false" selection-start-line="274" selection-start-column="81" selection-end-line="274" selection-end-column="81" />
+            <state relative-caret-position="389">
+              <caret line="672" column="42" lean-forward="true" selection-start-line="672" selection-start-column="42" selection-end-line="672" selection-end-column="42" />
               <folding>
                 <element signature="n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="e#16901#20153#0" expanded="false" />
                 <element signature="e#24147#29202#0" expanded="false" />
                 <element signature="n#div#6;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <marker date="1535349723862" expanded="false" signature="19750:19761" ph="..." />
-                <marker date="1535349723862" expanded="false" signature="19829:19840" ph="..." />
-                <marker date="1535349723862" expanded="false" signature="19908:19919" ph="..." />
-                <marker date="1535349723862" expanded="false" signature="19987:19999" ph="..." />
+                <marker date="1535350735141" expanded="false" signature="19750:19761" ph="..." />
+                <marker date="1535350735141" expanded="false" signature="19829:19840" ph="..." />
+                <marker date="1535350735141" expanded="false" signature="19908:19919" ph="..." />
+                <marker date="1535350735141" expanded="false" signature="19987:19999" ph="..." />
               </folding>
             </state>
           </provider>
@@ -194,6 +201,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\VUEDevelop\RenGuOffical\img\clientslogo" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -239,7 +251,7 @@
       <workItem from="1533689734763" duration="814000" />
       <workItem from="1534237665486" duration="4299000" />
       <workItem from="1534293723772" duration="8868000" />
-      <workItem from="1535333523883" duration="8568000" />
+      <workItem from="1535333523883" duration="9739000" />
     </task>
     <task id="LOCAL-00001" summary="主页划分大概模块，修改主页标题，导航栏内容，及相关内容简介的跳转。">
       <created>1534241965479</created>
@@ -262,11 +274,18 @@
       <option name="project" value="LOCAL" />
       <updated>1534316209580</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="公司简介页面内容替换">
+      <created>1535350326990</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1535350326990</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22549000" />
+    <option name="totallyTimeSpent" value="23720000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -301,7 +320,8 @@
     <MESSAGE value="主页划分大概模块，修改主页标题，导航栏内容，及相关内容简介的跳转。" />
     <MESSAGE value="其他相关页面修改导航栏内容、标题以及面包导航" />
     <MESSAGE value="首页导航栏添加新内容" />
-    <option name="LAST_COMMIT_MESSAGE" value="首页导航栏添加新内容" />
+    <MESSAGE value="公司简介页面内容替换" />
+    <option name="LAST_COMMIT_MESSAGE" value="公司简介页面内容替换" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -347,10 +367,10 @@
             <element signature="e#16901#20153#0" expanded="false" />
             <element signature="e#24147#29202#0" expanded="false" />
             <element signature="n#div#6;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1535349723862" expanded="false" signature="19750:19761" ph="..." />
-            <marker date="1535349723862" expanded="false" signature="19829:19840" ph="..." />
-            <marker date="1535349723862" expanded="false" signature="19908:19919" ph="..." />
-            <marker date="1535349723862" expanded="false" signature="19987:19999" ph="..." />
+            <marker date="1535350735141" expanded="false" signature="19750:19761" ph="..." />
+            <marker date="1535350735141" expanded="false" signature="19829:19840" ph="..." />
+            <marker date="1535350735141" expanded="false" signature="19908:19919" ph="..." />
+            <marker date="1535350735141" expanded="false" signature="19987:19999" ph="..." />
           </folding>
         </state>
       </provider>
@@ -414,10 +434,10 @@
             <element signature="e#16901#20153#0" expanded="false" />
             <element signature="e#24147#29202#0" expanded="false" />
             <element signature="n#div#6;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1535349723862" expanded="false" signature="19750:19761" ph="..." />
-            <marker date="1535349723862" expanded="false" signature="19829:19840" ph="..." />
-            <marker date="1535349723862" expanded="false" signature="19908:19919" ph="..." />
-            <marker date="1535349723862" expanded="false" signature="19987:19999" ph="..." />
+            <marker date="1535350735141" expanded="false" signature="19750:19761" ph="..." />
+            <marker date="1535350735141" expanded="false" signature="19829:19840" ph="..." />
+            <marker date="1535350735141" expanded="false" signature="19908:19919" ph="..." />
+            <marker date="1535350735141" expanded="false" signature="19987:19999" ph="..." />
           </folding>
         </state>
       </provider>
@@ -528,17 +548,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="274" column="81" lean-forward="false" selection-start-line="274" selection-start-column="81" selection-end-line="274" selection-end-column="81" />
+        <state relative-caret-position="389">
+          <caret line="672" column="42" lean-forward="true" selection-start-line="672" selection-start-column="42" selection-end-line="672" selection-end-column="42" />
           <folding>
             <element signature="n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="e#16901#20153#0" expanded="false" />
             <element signature="e#24147#29202#0" expanded="false" />
             <element signature="n#div#6;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1535349723862" expanded="false" signature="19750:19761" ph="..." />
-            <marker date="1535349723862" expanded="false" signature="19829:19840" ph="..." />
-            <marker date="1535349723862" expanded="false" signature="19908:19919" ph="..." />
-            <marker date="1535349723862" expanded="false" signature="19987:19999" ph="..." />
+            <marker date="1535350735141" expanded="false" signature="19750:19761" ph="..." />
+            <marker date="1535350735141" expanded="false" signature="19829:19840" ph="..." />
+            <marker date="1535350735141" expanded="false" signature="19908:19919" ph="..." />
+            <marker date="1535350735141" expanded="false" signature="19987:19999" ph="..." />
           </folding>
         </state>
       </provider>
