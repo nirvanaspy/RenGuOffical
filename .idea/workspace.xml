@@ -2,45 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="166935fc-9ca5-4a6e-8a30-0b062fad1ca8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/css/font-awesome.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/css/font-awesome.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/fonts/FontAwesome.otf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/fonts/fontawesome-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/fonts/fontawesome-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/fonts/fontawesome-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/fonts/fontawesome-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/fonts/fontawesome-webfont.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/less/animated.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/less/bordered-pulled.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/less/core.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/less/fixed-width.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/less/font-awesome.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/less/icons.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/less/larger.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/less/list.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/less/mixins.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/less/path.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/less/rotated-flipped.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/less/screen-reader.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/less/stacked.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/less/variables.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/scss/_animated.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/scss/_bordered-pulled.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/scss/_core.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/scss/_fixed-width.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/scss/_icons.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/scss/_larger.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/scss/_list.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/scss/_mixins.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/scss/_path.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/scss/_rotated-flipped.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/scss/_screen-reader.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/scss/_stacked.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/scss/_variables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/fonts/font-awesome2/scss/font-awesome.scss" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/index-4.html" afterPath="$PROJECT_DIR$/index-4.html" />
       <change beforePath="$PROJECT_DIR$/page-left-navigation.html" afterPath="$PROJECT_DIR$/page-left-navigation.html" />
+      <change beforePath="$PROJECT_DIR$/page-left-sidebar.html" afterPath="$PROJECT_DIR$/page-left-sidebar.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -57,8 +21,8 @@
       <file leaf-file-name="index-4.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index-4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="225" column="28" lean-forward="true" selection-start-line="225" selection-start-column="28" selection-end-line="225" selection-end-column="28" />
+            <state relative-caret-position="103">
+              <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
               <folding>
                 <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="e#40111#42805#0" expanded="false" />
@@ -71,10 +35,17 @@
       <file leaf-file-name="page-left-navigation.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/page-left-navigation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="224" column="28" lean-forward="false" selection-start-line="224" selection-start-column="28" selection-end-line="224" selection-end-column="28" />
+            <state relative-caret-position="162">
+              <caret line="41" column="47" lean-forward="true" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
               <folding>
                 <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#h4#0;n#div#1;n#article#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#1;n#div#1;n#article#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#3;n#div#1;n#article#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#4;n#div#1;n#article#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -105,10 +76,10 @@
       <file leaf-file-name="page-left-sidebar.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page-left-sidebar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4313">
-              <caret line="227" column="36" lean-forward="false" selection-start-line="227" selection-start-column="36" selection-end-line="227" selection-end-column="36" />
+            <state relative-caret-position="162">
+              <caret line="17" column="70" lean-forward="true" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
               <folding>
-                <marker date="1535352402671" expanded="true" signature="2069:2214" ph="..." />
+                <element signature="e#41061#41067#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -117,17 +88,13 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="633" column="78" lean-forward="false" selection-start-line="633" selection-start-column="78" selection-end-line="633" selection-end-column="78" />
+            <state relative-caret-position="288">
+              <caret line="234" column="32" lean-forward="true" selection-start-line="234" selection-start-column="32" selection-end-line="234" selection-end-column="32" />
               <folding>
                 <element signature="n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="e#16901#20153#0" expanded="false" />
                 <element signature="e#24147#29202#0" expanded="false" />
                 <element signature="n#div#6;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <marker date="1535350735141" expanded="false" signature="19750:19761" ph="..." />
-                <marker date="1535350735141" expanded="false" signature="19829:19840" ph="..." />
-                <marker date="1535350735141" expanded="false" signature="19908:19919" ph="..." />
-                <marker date="1535350735141" expanded="false" signature="19987:19999" ph="..." />
               </folding>
             </state>
           </provider>
@@ -176,6 +143,7 @@
       <find>angle-r</find>
       <find>icon-angle-r</find>
       <find>icon-</find>
+      <find>Responsive L</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -191,11 +159,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/services.html" />
-        <option value="$PROJECT_DIR$/page-left-sidebar.html" />
         <option value="$PROJECT_DIR$/testimonials.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/index-4.html" />
         <option value="$PROJECT_DIR$/page-left-navigation.html" />
+        <option value="$PROJECT_DIR$/page-left-sidebar.html" />
       </list>
     </option>
   </component>
@@ -212,8 +180,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="45" />
-    <option name="y" value="34" />
+    <option name="x" value="88" />
+    <option name="y" value="205" />
     <option name="width" value="1378" />
     <option name="height" value="773" />
   </component>
@@ -429,7 +397,7 @@
       <workItem from="1533689734763" duration="814000" />
       <workItem from="1534237665486" duration="4299000" />
       <workItem from="1534293723772" duration="8868000" />
-      <workItem from="1535333523883" duration="14844000" />
+      <workItem from="1535333523883" duration="19207000" />
     </task>
     <task id="LOCAL-00001" summary="主页划分大概模块，修改主页标题，导航栏内容，及相关内容简介的跳转。">
       <created>1534241965479</created>
@@ -466,11 +434,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535351511495</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="主页，替换公司简介内容以及联系方式内容。替换主页图标，应用新版的font-Awesome">
+      <created>1535357054357</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1535357054357</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28825000" />
+    <option name="totallyTimeSpent" value="33188000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -507,7 +482,8 @@
     <MESSAGE value="首页导航栏添加新内容" />
     <MESSAGE value="公司简介页面内容替换" />
     <MESSAGE value="公司简介页面，添加合作伙伴图片" />
-    <option name="LAST_COMMIT_MESSAGE" value="公司简介页面，添加合作伙伴图片" />
+    <MESSAGE value="主页，替换公司简介内容以及联系方式内容。替换主页图标，应用新版的font-Awesome" />
+    <option name="LAST_COMMIT_MESSAGE" value="主页，替换公司简介内容以及联系方式内容。替换主页图标，应用新版的font-Awesome" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -541,7 +517,7 @@
         <state relative-caret-position="1444">
           <caret line="213" column="36" lean-forward="false" selection-start-line="213" selection-start-column="36" selection-end-line="213" selection-end-column="36" />
           <folding>
-            <marker date="1535352402671" expanded="true" signature="2069:2214" ph="..." />
+            <element signature="e#41061#41067#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -555,10 +531,6 @@
             <element signature="e#16901#20153#0" expanded="false" />
             <element signature="e#24147#29202#0" expanded="false" />
             <element signature="n#div#6;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1535350735141" expanded="false" signature="19750:19761" ph="..." />
-            <marker date="1535350735141" expanded="false" signature="19829:19840" ph="..." />
-            <marker date="1535350735141" expanded="false" signature="19908:19919" ph="..." />
-            <marker date="1535350735141" expanded="false" signature="19987:19999" ph="..." />
           </folding>
         </state>
       </provider>
@@ -600,7 +572,7 @@
         <state relative-caret-position="4047">
           <caret line="213" column="36" lean-forward="false" selection-start-line="213" selection-start-column="36" selection-end-line="213" selection-end-column="36" />
           <folding>
-            <marker date="1535352402671" expanded="true" signature="2069:2214" ph="..." />
+            <element signature="e#41061#41067#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -624,10 +596,6 @@
             <element signature="e#16901#20153#0" expanded="false" />
             <element signature="e#24147#29202#0" expanded="false" />
             <element signature="n#div#6;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1535350735141" expanded="false" signature="19750:19761" ph="..." />
-            <marker date="1535350735141" expanded="false" signature="19829:19840" ph="..." />
-            <marker date="1535350735141" expanded="false" signature="19908:19919" ph="..." />
-            <marker date="1535350735141" expanded="false" signature="19987:19999" ph="..." />
           </folding>
         </state>
       </provider>
@@ -696,16 +664,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page-left-sidebar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4313">
-          <caret line="227" column="36" lean-forward="false" selection-start-line="227" selection-start-column="36" selection-end-line="227" selection-end-column="36" />
-          <folding>
-            <marker date="1535352402671" expanded="true" signature="2069:2214" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/services.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1805">
@@ -724,23 +682,6 @@
           <caret line="329" column="27" lean-forward="false" selection-start-line="329" selection-start-column="27" selection-end-line="329" selection-end-column="27" />
           <folding>
             <element signature="n#div#1;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="633" column="78" lean-forward="false" selection-start-line="633" selection-start-column="78" selection-end-line="633" selection-end-column="78" />
-          <folding>
-            <element signature="n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#16901#20153#0" expanded="false" />
-            <element signature="e#24147#29202#0" expanded="false" />
-            <element signature="n#div#6;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1535350735141" expanded="false" signature="19750:19761" ph="..." />
-            <marker date="1535350735141" expanded="false" signature="19829:19840" ph="..." />
-            <marker date="1535350735141" expanded="false" signature="19908:19919" ph="..." />
-            <marker date="1535350735141" expanded="false" signature="19987:19999" ph="..." />
           </folding>
         </state>
       </provider>
@@ -769,10 +710,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="234" column="32" lean-forward="true" selection-start-line="234" selection-start-column="32" selection-end-line="234" selection-end-column="32" />
+          <folding>
+            <element signature="n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#16901#20153#0" expanded="false" />
+            <element signature="e#24147#29202#0" expanded="false" />
+            <element signature="n#div#6;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index-4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="225" column="28" lean-forward="true" selection-start-line="225" selection-start-column="28" selection-end-line="225" selection-end-column="28" />
+        <state relative-caret-position="103">
+          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
           <folding>
             <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="e#40111#42805#0" expanded="false" />
@@ -781,12 +735,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/page-left-sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="17" column="70" lean-forward="true" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
+          <folding>
+            <element signature="e#41061#41067#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/page-left-navigation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="224" column="28" lean-forward="false" selection-start-line="224" selection-start-column="28" selection-end-line="224" selection-end-column="28" />
+        <state relative-caret-position="162">
+          <caret line="41" column="47" lean-forward="true" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
           <folding>
             <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h4#0;n#div#1;n#article#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#1;n#div#1;n#article#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#3;n#div#1;n#article#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#4;n#div#1;n#article#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
