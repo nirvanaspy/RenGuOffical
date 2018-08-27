@@ -37,10 +37,16 @@
       <!--[if lt IE 9]>
       <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
       <script src="js/respond.min.js"></script>
+      <script src="js/jquery.min.js"></script>
       <![endif]-->
       <!--[if IE]>
       <link rel="stylesheet" href="css/ie.css">
       <![endif]-->
+       <style>
+           .posts-block {
+               display: none;
+           }
+       </style>
    </head>
    <body class="page">
       <div class="wrap">
@@ -145,12 +151,20 @@
                            </span>
                            </a>
                            <ul>
-                              <li><a href="services.html" class="sf-with-ul">产品1</a></li>
-                              <li><a href="page-left-sidebar.html" class="sf-with-ul">产品2</a></li>
-                              <li><a href="full-width.html" class="sf-with-ul">产品3</a></li>
-                              <li><a href="page-right-sidebar.html" class="sf-with-ul">产品4</a></li>
-                              <li><a href="page-left-navigation.html" class="sf-with-ul">产品5</a></li>
-                              <li><a href="page-right-navigation.html" class="sf-with-ul">产品6</a></li>
+                               <li><a href="page-left-sidebar.html?product=0" class="sf-with-ul">多功能数字化网络分析平台</a></li>
+                               <li><a href="page-left-sidebar.html?product=1" class="sf-with-ul">网络监控管理平台</a></li>
+                               <li><a href="page-left-sidebar.html?product=2" class="sf-with-ul">即时通讯软件</a></li>
+                               <li><a href="page-left-sidebar.html?product=3" class="sf-with-ul">嵌入式图形化解决方案和应用开发</a></li>
+                               <li><a href="page-left-sidebar.html?product=4" class="sf-with-ul">协议编辑与管理工具</a></li>
+                               <li><a href="page-left-sidebar.html?product=5" class="sf-with-ul">一体化运维与管理平台</a></li>
+                               <li><a href="page-left-sidebar.html?product=6" class="sf-with-ul">面向领域的复杂系统建模平台</a></li>
+                              <!--<li><a href="services.html" class="sf-with-ul">多功能数字化网络分析平台</a></li>
+                              <li><a href="page-left-sidebar.html" class="sf-with-ul">网络监控管理平台</a></li>
+                              <li><a href="full-width.html" class="sf-with-ul">即时通讯软件</a></li>
+                              <li><a href="page-right-sidebar.html" class="sf-with-ul">嵌入式图形化解决方案和应用开发</a></li>
+                              <li><a href="page-left-navigation.html" class="sf-with-ul">协议编辑与管理工具</a></li>
+                              <li><a href="page-right-navigation.html" class="sf-with-ul">一体化运维与管理平台</a></li>
+                              <li><a href="page-right-navigation.html" class="sf-with-ul">面向领域的复杂系统建模平台</a></li>-->
                               <!--<li><a href="faq.html" class="sf-with-ul">FAQ</a></li>
                               <li><a href="page-404.html" class="sf-with-ul">404 Page</a></li>
                               <li><a href="sitemap.html" class="sf-with-ul">Sitemap</a></li>-->
@@ -213,7 +227,7 @@
             </div>
             <!-- Main Header End -->
          </header>
-         <!-- Header End -->  
+         <!-- Header End -->
          <!-- Content Start -->
          <div id="main">
             <!-- Title, Breadcrumb Start-->
@@ -221,15 +235,15 @@
                <div class="container">
                   <div class="row">
                      <div class="col-lg-6 col-md-6 col-xs-12 col-sm-6">
-                        <h2 class="title">产品2</h2>
+                        <h2 class="title" id="proTitle">产品</h2>
                      </div>
                      <div class="col-lg-6 col-md-6 col-xs-12 col-sm-6">
                         <div class="breadcrumbs pull-right">
                            <ul>
                               <li>您当前所在位置：</li>
-                              <li><a href="index-2.html">主页</a></li>
+                              <li><a href="index-4.html">主页</a></li>
                               <li><a href="#">产品介绍</a></li>
-                              <li>产品2</li>
+                              <li id="proBreadTitle">产品2</li>
                            </ul>
                         </div>
                      </div>
@@ -243,18 +257,18 @@
                   <div class="row">
                      <div class="sidebar col-lg-3 col-md-3 col-sm-4 col-xs-12">
                         <!-- Search Widget Start -->
-                        <div class="widget search-form">
+                        <!--<div class="widget search-form">
                            <div class="input-group">
                               <input type="text" value="Search..." onfocus="if(this.value=='Search...')this.value='';" onblur="if(this.value=='')this.value='Search...';" class="search-input form-control">
                               <span class="input-group-btn">
                               <button type="submit" class="subscribe-btn btn"><i class="icon-search"></i></button>
                               </span>
                            </div>
-                           <!-- /input-group -->
-                        </div>
+                           &lt;!&ndash; /input-group &ndash;&gt;
+                        </div>-->
                         <!-- Search Widget End -->
                         <!-- Tab Start -->
-                        <div class="widget tabs">
+                        <!--<div class="widget tabs">
                            <div id="horizontal-tabs">
                               <ul class="tabs">
                                  <li id="tab1" class="current">Popular</li>
@@ -306,7 +320,7 @@
                                  </div>
                               </div>
                            </div>
-                        </div>
+                        </div>-->
                         <!-- Tab End -->
                         <!-- Testimonials Widget Start -->
                         <div class="row">
@@ -409,7 +423,7 @@
                         <!-- Ads Widget End -->
                      </div>
                      <!-- Sidebar End -->
-                     <div class="posts-block col-lg-9 col-md-9 col-sm-8 col-xs-12">
+                     <div class="posts-block col-lg-9 col-md-9 col-sm-8 col-xs-12" id="product0">
                         <article class="post hentry">
                            <div class="post-image">
                               <a href="img/blog/blog-post3.jpg" data-rel="prettyPhoto">
@@ -420,16 +434,218 @@
                            </div>
                            <div class="post-content">
                               <p>
-                                 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                                 “多功能数字化网络分析平台”是一套便携式的数字化网络测试平台，内置数字化信号采集、协议可视化定义、解析、记录、模拟输出（包括黑盒、白盒）、拓扑分析、统计、错误定位等功能模块。
+                                 可应用于复杂分布式系统的单机接口测试、系统接口联调、系统集成测试、系统设计反求及维修保障。
+                                 该产品具有极高的通用性，在有无协议支持下都可以发挥巨大作用，帮助用户降低定制化研制成本，提高效率。
                               </p>
                               <br>
                               <p>
-                                 There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+                                 <h3>功能特色</h3>
+                                 <ul>
+                                    <li>a）具有报文应用层协议可视化设计与定制的功能，可自由定义应用层协议字段组成及对应的含义</li>
+                                    <li>b）设备可通过接入交换机/集线器/1553B总线/串口等，透明的采集所有以太网络报文</li>
+                                    <li>c）具备关键报文实时录取的能力</li>
+                                    <li>d）基于自定义应用层协议，支持对在线采集报文的实时解析</li>
+                                    <li>e）基于自定义应用层协议，支持报文模拟发送功能</li>
+                                    <li>f）具备对记录数据的离线查询、分析和统计的能力</li>
+                                    <li>g）具备报文源码对比、分析等能力</li>
+                                    <li>h）具备基于目标数据的定位及反推能力</li>
+                                 </ul>
+                              </p>
+                              <br>
+                           </div>
+                        </article>
+                     </div>
+                     <div class="posts-block col-lg-9 col-md-9 col-sm-8 col-xs-12" id="product1">
+                        <article class="post hentry">
+                           <div class="post-image">
+                              <a href="img/blog/blog-post3.jpg" data-rel="prettyPhoto">
+                                 <span class="img-hover"></span>
+                                 <span class="fullscreen"><i class="icon-search"></i></span>
+                                 <img src="img/blog/blog-post3.jpg" alt="">
+                              </a>
+                           </div>
+                           <div class="post-content">
+                              <p>
+                                 “多功能数字化网络分析平台”是一套便携式的数字化网络测试平台，内置数字化信号采集、协议可视化定义、解析、记录、模拟输出（包括黑盒、白盒）、拓扑分析、统计、错误定位等功能模块。
+                                 可应用于复杂分布式系统的单机接口测试、系统接口联调、系统集成测试、系统设计反求及维修保障。
+                                 该产品具有极高的通用性，在有无协议支持下都可以发挥巨大作用，帮助用户降低定制化研制成本，提高效率。
                               </p>
                               <br>
                               <p>
-                                 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+                              <h3>功能特色</h3>
+                              <ul>
+                                 <li>a）基于三层交换机实现网络的监控和管理</li>
+                                 <li>b）具备网络拓扑分析的功能</li>
+                                 <li>c）具备故障监测和实时告警功能。</li>
+                                 <li>d）通过snmp远程访问交换机，获取性能数据，包括CPU使用率、内存使用率、温度、端口是否连通、端口流量、端口速率、链路利用率、丢包率、包错误率、吞吐量。</li>
+                                 <li>e）支持对交换机设备的端口状态查询，主要信息包括：所在网元、所在子架、所在机框、所在机槽、所在机盘、端口号、端口速率、状态等。</li>
+                                 <li>f）支持指定端口的数据备份。</li>
+                              </ul>
                               </p>
+                              <br>
+                           </div>
+                        </article>
+                     </div>
+                     <div class="posts-block col-lg-9 col-md-9 col-sm-8 col-xs-12" id="product2">
+                        <article class="post hentry">
+                           <div class="post-image">
+                              <a href="img/blog/blog-post3.jpg" data-rel="prettyPhoto">
+                                 <span class="img-hover"></span>
+                                 <span class="fullscreen"><i class="icon-search"></i></span>
+                                 <img src="img/blog/blog-post3.jpg" alt="">
+                              </a>
+                           </div>
+                           <div class="post-content">
+                              <p>
+                                 即时通讯软件通过即时通讯技术实现在线聊天、信息交流、文件传输的软件。可按照使用的场景划分，广域网中通信主要以QQ、Skype、MSN等为代表；局域网中通信则以飞秋、飞鸽软件等为代表。这些软件可以满足普通人对于即时通讯的需求，而以军工行业等为代表的特殊行业，因对数据格式、数据安全、通信方式有着特殊的要求，上述软件在这些场景中很难发挥出其优势。
+                              </p>
+                              <br>
+                              <p>
+                                 即时通讯工具以军工行业为设计背景，既考虑了用户对软件的使用习惯，也满足了特殊的通信需求。提供了联系人、群组的信息及文件传输功能，也支持多种传输链路加密通信。以灵活、可配置、可扩展的特点，可以更好的服务于军工领域。
+                              </p>
+                              <p>
+                              <h3>功能特色</h3>
+                              <ul>
+                                 <li>a）	联系人功能：显示所有用户分组、联系人在线状态，用户可在面板页面直接选择对象发起会话；自定义分组，将联系人保存于不同的分组；根据账户可查找、请求添加新的联系人；查看联系人的基本信息。</li>
+                                 <li>b）	群组联系功能：显示所有群分组信息，可在面板页面直接发起群聊会话；根据账户可查找、请求加入新的群；手动创建新的联系群，并可设置相关的入群策略。群管理员可在群内发布统一公告，可对某个群成员设置禁言、踢出群等功能。</li>
+                                 <li>c）	历史会话功能：记录并显示历史对话记录，并可继续发起会话；对于重要联系人，可对其设置会话置顶，方便查看。</li>
+                                 <li>d）	信息传输与管理功能：支持最长录制60s的语音信息，压缩后发送后，接收方可播放；支持用户发送截屏图片、本地文件，采用压缩机制，提高传输效率；通信时的所有的信息均被加密保存至本地，用户可查询和搜索聊天记录。</li>
+                                 <li>e）	系统设置功能：客户端-服务器模式下，提供不同服务器的网络信息配置功能；根据使用习惯，用户可个性化的配置软件相关功能。</li>
+                              </ul>
+                              </p>
+                              <br>
+                           </div>
+                        </article>
+                     </div>
+                     <div class="posts-block col-lg-9 col-md-9 col-sm-8 col-xs-12" id="product3">
+                        <article class="post hentry">
+                           <div class="post-image">
+                              <a href="img/blog/blog-post3.jpg" data-rel="prettyPhoto">
+                                 <span class="img-hover"></span>
+                                 <span class="fullscreen"><i class="icon-search"></i></span>
+                                 <img src="img/blog/blog-post3.jpg" alt="">
+                              </a>
+                           </div>
+                           <div class="post-content">
+                              <p>
+                                 我公司结合多年来在嵌入式操作系统应用及图形化开发经验，为用户提供一套基于QT（Digia）的图形化产品方案，利用QT易用性好、运行效率高、资源丰富等特点，为嵌入式实时操作系统的图形化开发提供支撑。
+                                 但目前vxWorks的主流开发平台——workbench3.2（风河）并未提供QT设计、编译的集成开发环境，导致研发效率低下。面对该问题，我公司为客户提供了一套完整的解决方案，保证workbench与QT的完美集成
+                              </p>
+                              <br>
+                              <p>
+                              <h3>功能特色</h3>
+                              <ul>
+                                 <li>a）提供了丰富的嵌入式操作系统图形库，支持图形绘制、窗体、多媒体、数据库、XML、共享内存等。</li>
+                                 <li>b）实现了嵌入式应用图形设计、开发、编译环境的无缝集成，满足在workbench/LambadPRO环境下设计、开发Qt应用，并完成一键编译、部署。</li>
+                                 <li>c）实现QT与嵌入式操作系统开发环境（如VS、workbench等）的无缝结合，建立一体化集成开发环境，提高应用开发及调试的效率。</li>
+                                 <li>d）为客户提供嵌入式实时操作系统的应用统一调度中间件，支持对基于QT的图形化应用进行统一的调度和维护。</li>
+                                 <li>e）支持Qt4.8.3在vxworks6.8下的多进程（RTP）显示。</li>
+                                 <li>f）支持在vxworks6.8下自定义启动界面及背景界面。</li>
+                                 <li>g）支持Qt在vxworks6.8下的加速显示。</li>
+                                 <li>h）支持Pentium、龙芯、凌动等多种处理器。</li>
+                              </ul>
+                              </p>
+                              <br>
+                           </div>
+                        </article>
+                     </div>
+                     <div class="posts-block col-lg-9 col-md-9 col-sm-8 col-xs-12" id="product4">
+                        <article class="post hentry">
+                           <div class="post-image">
+                              <a href="img/blog/blog-post3.jpg" data-rel="prettyPhoto">
+                                 <span class="img-hover"></span>
+                                 <span class="fullscreen"><i class="icon-search"></i></span>
+                                 <img src="img/blog/blog-post3.jpg" alt="">
+                              </a>
+                           </div>
+                           <div class="post-content">
+                              <p>
+                                 协议编辑管理工具用于面向大型系统的数据字典（协议）编制团队，辅助其协同开展系统协议（idl文件）的编辑、编译与管理，旨在提高系统数据定义的效率，保证数据定义的准确性，减少管理成本，满足协同、并行定制的需求。
+                              </p>
+                              <br>
+                              <p>
+                              <h3>功能特色</h3>
+                              <ul>
+                                 <li>a）面向不同用户协议编译。</li>
+                                 <li>b）添加协议备注信息，用户根据结构体对应注释添加结构体的备注信息，方便查询。</li>
+                                 <li>c）版本管理，方便查找。</li>
+                                 <li>d）构建配置</li>
+                                 <li>e）用户管理</li>
+                                 <li>f）编码转换作为辅助工具，编码转换工具针对当前打开文件出现注释乱码情况。用户进行编码转换，将乱码显示为正常。</li>
+                              </ul>
+                              </p>
+                              <br>
+                           </div>
+                        </article>
+                     </div>
+                     <div class="posts-block col-lg-9 col-md-9 col-sm-8 col-xs-12" id="product5">
+                        <article class="post hentry">
+                           <div class="post-image">
+                              <a href="img/blog/blog-post3.jpg" data-rel="prettyPhoto">
+                                 <span class="img-hover"></span>
+                                 <span class="fullscreen"><i class="icon-search"></i></span>
+                                 <img src="img/blog/blog-post3.jpg" alt="">
+                              </a>
+                           </div>
+                           <div class="post-content">
+                              <p>
+                                 一体化运维平台面向复杂的分布式环境，通过提供对分布式系统软件全生命周期的管理功能，包括工程管理、软件（服务）管理、设备管理、版本管理、部署分发管理等,实现对设备、组件、进程等资源的一体化监控，
+                                 以及对windows、linux、vxwork、中标麒麟、MacOs等不同操作系统环境的自动集成装配，旨在提高分布式系统的管理质量和效率。
+                              </p>
+                              <br>
+                              <p>
+                              <h3>功能特色</h3>
+                              <ul>
+                                 <li>a）可基于舱室结构，支持可视化的部署方案设计</li>
+                                 <li>b）支持应用软件的集中管理以及自动集成装配</li>
+                                 <li>c）支持实时查看应用软件的部署方案，以及应用软件的运行状态</li>
+                                 <li>d）支持对应用软件版本的监控、比对。可及时发现违法部署操作</li>
+                                 <li>e）支持多种主流的操作系统，包括windows、linux、中标麒麟、vxworks、道系统等</li>
+                                 <li>f）支持对（虚拟）设备节点中（日志等）文件的回传</li>
+                              </ul>
+                              </p>
+                              <br>
+                           </div>
+                        </article>
+                     </div>
+                     <div class="posts-block col-lg-9 col-md-9 col-sm-8 col-xs-12" id="product6">
+                        <article class="post hentry">
+                           <div class="post-image">
+                              <a href="img/blog/blog-post3.jpg" data-rel="prettyPhoto">
+                                 <span class="img-hover"></span>
+                                 <span class="fullscreen"><i class="icon-search"></i></span>
+                                 <img src="img/blog/blog-post3.jpg" alt="">
+                              </a>
+                           </div>
+                           <div class="post-content">
+                              <p>
+                                 系统分析建模平台是我公司的一个核心平台，是整个平台体系的中心。系
+                                 统分析建模主要面向不同领域的复杂系统总体设计单位，提供需求辅助分
+                                 析、需求管理、系统架构设计、系统UI设计、部署设计、组件设计服务。
+                                 从而提供系统的设计质量和效率，保证设计成果的复用和积累。
+                              </p>
+                              <br>
+                              <p>
+                              <h3>功能特色</h3>
+                              <ul>
+                                 <li>
+                                    <h5>a）高层概念场景建模</h5>
+                                    高层概念建模以形式化的方式完成使命、作战方式、组织结构、协同兵力、作战目的、作战对象、作战区域、作战活动等信息的描述，强调重要的作战节点，分析系统体系结构与环境以及各作战对象（实体）之间的关系。是开展使命分析、任务分析以及系统需求的重要参考依据。
+                                 </li>
+                                 <li>
+                                    <h5>b）需求分析与管理</h5>
+                                    支持建立业务过程分析视图，辅助用户对系统开展面向领域的概念建模与业务建模，分析典型业务场景，定义系统当前业务过程，从而建立现实世界与目标系统之间的桥梁，作为开展系统功能分析与设计的基础。同时负责对业务分析过程中产生的需求进行统一的管理和维护，支持记录需求变化历史及需求修改意见，维护需求的可追踪性
+                                 </li>
+                                 <li><h5>c）复杂系统的设计</h5>
+                                    引导用户以业务过程为驱动，采用并行协同或迭代设计过程，通过用例图、活动图、序列图、状态图等动态视图，及组合结构图、UI设计视图、部署图等结构视图，实现系统边界分析、用例建模、功能逐层分解、系统架构设计、部署设计、人机交互设计等活动，从而提取系统构件开发要求。
+                                 </li>
+                                 <li><h5>d）系统UI设计</h5>
+                                    将人机交互提升到系统层面，利于专业的设计团队统一考虑系统的显示风格、操作风格，建立合理的界面框架，同时细化界面显示粒度，提高界面复用程度。
+                                 </li>
+                              </ul>
+                              </p>
+                              <br>
                            </div>
                         </article>
                      </div>
@@ -448,8 +664,8 @@
                   <div class="row">
                      <section class="col-lg-3 col-md-3 col-xs-12 col-sm-3 footer-one">
                         <h3>About</h3>
-                        <p> 
-                           Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. 
+                        <p>
+                           Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
                         </p>
                      </section>
                      <section class="col-lg-3 col-md-3 col-xs-12 col-sm-3 footer-two">
@@ -462,9 +678,9 @@
                         <ul class="contact-us">
                            <li>
                               <i class="icon-map-marker"></i>
-                              <p> 
+                              <p>
                                  <strong>Address:</strong> 250 Sher-E- Bangla Road, <br>
-                                 Khulna, Bangladesh 
+                                 Khulna, Bangladesh
                               </p>
                            </li>
                            <li>
@@ -484,7 +700,7 @@
                   </div>
                </div>
             </div>
-            <!-- Footer Top End --> 
+            <!-- Footer Top End -->
             <!-- Footer Bottom Start -->
             <div class="footer-bottom">
                <div class="container">
@@ -502,9 +718,9 @@
                   </div>
                </div>
             </div>
-            <!-- Footer Bottom End --> 
+            <!-- Footer Bottom End -->
          </footer>
-         <!-- Scroll To Top --> 
+         <!-- Scroll To Top -->
          <a href="#" class="scrollup"><i class="icon-angle-up"></i></a>
       </div>
       <!-- Wrap End -->
@@ -561,8 +777,8 @@
       <!-- The Scripts -->
       <script src="js/jquery.min.js"></script>
       <script src="js/bootstrap.js"></script>
-      <script src="js/jquery.parallax.js"></script> 
-      <script src="js/modernizr-2.6.2.min.js"></script> 
+      <script src="js/jquery.parallax.js"></script>
+      <script src="js/modernizr-2.6.2.min.js"></script>
       <script src="js/revolution-slider/js/jquery.themepunch.revolution.min.js"></script>
       <script src="js/jquery.nivo.slider.pack.js"></script>
       <script src="js/jquery.prettyPhoto.js"></script>
@@ -577,6 +793,48 @@
       <script src="js/switcher.js"></script>
       <script src="js/jquery.gmap.min.js"></script>
       <script src="js/custom.js"></script>
-   
+
 </body>
+<script>
+   window.onload = function (ev) {
+       let productId = getUrlParam('product')
+       let productDomId = '#product' + productId
+       $(productDomId).css('display', 'block')
+       if(productId == '0') {
+           $('#proTitle').html('多功能数字化网络分析平台')
+           $('#proBreadTitle').html('多功能数字化网络分析平台')
+       }
+       if(productId == '1') {
+           $('#proTitle').html('网络监控管理平台')
+           $('#proBreadTitle').html('网络监控管理平台')
+       }
+       if(productId == '2') {
+           $('#proTitle').html('即时通讯软件')
+           $('#proBreadTitle').html('即时通讯软件')
+       }
+       if(productId == '3') {
+           $('#proTitle').html('嵌入式图形化解决方案和应用开发')
+           $('#proBreadTitle').html('嵌入式图形化解决方案和应用开发')
+       }
+       if(productId == '4') {
+           $('#proTitle').html('协议编辑与管理工具')
+           $('#proBreadTitle').html('协议编辑与管理工具')
+       }
+       if(productId == '5') {
+           $('#proTitle').html('一体化运维与管理平台')
+           $('#proBreadTitle').html('一体化运维与管理平台')
+       }
+       if(productId == '6') {
+           $('#proTitle').html('面向领域的复杂系统建模平台')
+           $('#proBreadTitle').html('面向领域的复杂系统建模平台')
+       }
+   }
+
+   // 取得url参数
+   function getUrlParam(name) {
+       let reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)"); // 构造一个含有目标参数的正则表达式对象
+       let r = window.location.search.substr(1).match(reg);  // 匹配目标参数
+       if (r != null) return unescape(r[2]); return null; // 返回参数值
+   }
+</script>
 </html>
