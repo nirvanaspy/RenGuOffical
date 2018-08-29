@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="166935fc-9ca5-4a6e-8a30-0b062fad1ca8" name="Default" comment="">
+    <list default="true" id="166935fc-9ca5-4a6e-8a30-0b062fad1ca8" name="Default" comment="主页的合作伙伴图片样式调整">
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/基于中标麒麟操作系统1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/基于中标麒麟操作系统2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/多功能数字化网络分析平台.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/嵌入式图形化解决方案和应用开发1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/嵌入式图形化解决方案和应用开发2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/指挥中心内部通信.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/装备与装备通信.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/跨指挥中心通信.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/css/about.css" afterPath="$PROJECT_DIR$/css/about.css" />
       <change beforePath="$PROJECT_DIR$/index-4.html" afterPath="$PROJECT_DIR$/index-4.html" />
@@ -21,14 +29,14 @@
       <file leaf-file-name="index-4.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index-4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-270">
-              <caret line="827" column="48" lean-forward="true" selection-start-line="827" selection-start-column="48" selection-end-line="827" selection-end-column="48" />
+            <state relative-caret-position="389">
+              <caret line="573" column="48" lean-forward="true" selection-start-line="573" selection-start-column="48" selection-end-line="573" selection-end-column="48" />
               <folding>
                 <element signature="n#style#0;n#h3#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#5;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#39733#42427#0" expanded="false" />
+                <element signature="e#39283#41977#0" expanded="false" />
                 <element signature="n#section#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <marker date="1535523418287" expanded="false" signature="61297:62536" ph="..." />
+                <marker date="1535527544911" expanded="false" signature="60847:62086" ph="..." />
               </folding>
             </state>
           </provider>
@@ -102,8 +110,8 @@
       <file leaf-file-name="about.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/about.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+            <state relative-caret-position="323">
+              <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -169,6 +177,7 @@
       <find>id=&quot;colors&quot;</find>
       <find>angle-up</find>
       <find>PREM</find>
+      <find>当前</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -206,8 +215,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-56" />
-    <option name="y" value="100" />
+    <option name="x" value="278" />
+    <option name="y" value="13" />
     <option name="width" value="1378" />
     <option name="height" value="774" />
   </component>
@@ -245,6 +254,12 @@
               <item name="RenGuOffical" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="RenGuOffical" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RenGuOffical" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -261,6 +276,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\VUEDevelop\RenGuOffical\img\product" />
       <recent name="E:\VUEDevelop\RenGuOffical\css\fonts" />
       <recent name="E:\VUEDevelop\RenGuOffical\img\clientslogo" />
     </key>
@@ -277,23 +293,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index-4.html">
+  <component name="RunManager" selected="JavaScript Debug.page-404.html">
     <configuration name="about.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/RenGuOffical/about.html" />
     <configuration name="index-2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/RenGuOffical/index-2.html" />
     <configuration name="index-3.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/RenGuOffical/index-3.html" />
     <configuration name="index-4.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/RenGuOffical/index-4.html" />
-    <list size="4">
+    <configuration name="page-404.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/RenGuOffical/page-404.html" />
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index-3.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index-4.html" />
       <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index-2.html" />
       <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.about.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.page-404.html" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index-4.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.about.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index-2.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index-3.html" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.page-404.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index-4.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.about.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index-2.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index-3.html" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +336,7 @@
       <workItem from="1535417514916" duration="1711000" />
       <workItem from="1535450236564" duration="2704000" />
       <workItem from="1535503872194" duration="697000" />
-      <workItem from="1535507546281" duration="8187000" />
+      <workItem from="1535507546281" duration="11946000" />
     </task>
     <task id="LOCAL-00001" summary="主页划分大概模块，修改主页标题，导航栏内容，及相关内容简介的跳转。">
       <created>1534241965479</created>
@@ -410,11 +429,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535522899081</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="主页的合作伙伴图片样式调整">
+      <created>1535523875282</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1535523875282</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48444000" />
+    <option name="totallyTimeSpent" value="52203000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -460,21 +486,14 @@
     <MESSAGE value="主页，修改电话及邮箱图标" />
     <MESSAGE value="主页轮播图片中的内容修改为公司相关的内容" />
     <MESSAGE value="主页轮播图片中的内容修改为公司相关的内容；&#10;轮播图下的标题替换为公司的宣传标语（自写）" />
-    <option name="LAST_COMMIT_MESSAGE" value="主页轮播图片中的内容修改为公司相关的内容；&#10;轮播图下的标题替换为公司的宣传标语（自写）" />
+    <MESSAGE value="主页的合作伙伴图片样式调整" />
+    <option name="LAST_COMMIT_MESSAGE" value="主页的合作伙伴图片样式调整" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/faq.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5814">
-          <caret line="306" column="40" lean-forward="false" selection-start-line="306" selection-start-column="40" selection-end-line="306" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shortcodes.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5719">
@@ -502,9 +521,9 @@
           <folding>
             <element signature="n#style#0;n#h3#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#5;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#39733#42427#0" expanded="false" />
+            <element signature="e#39283#41977#0" expanded="false" />
             <element signature="n#section#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1535523418287" expanded="false" signature="61297:62536" ph="..." />
+            <marker date="1535527544911" expanded="false" signature="60847:62086" ph="..." />
           </folding>
         </state>
       </provider>
@@ -608,9 +627,9 @@
           <folding>
             <element signature="n#style#0;n#h3#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#5;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#39733#42427#0" expanded="false" />
+            <element signature="e#39283#41977#0" expanded="false" />
             <element signature="n#section#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1535523418287" expanded="false" signature="61297:62536" ph="..." />
+            <marker date="1535527544911" expanded="false" signature="60847:62086" ph="..." />
           </folding>
         </state>
       </provider>
@@ -714,9 +733,9 @@
           <folding>
             <element signature="n#style#0;n#h3#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#5;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#39733#42427#0" expanded="false" />
+            <element signature="e#39283#41977#0" expanded="false" />
             <element signature="n#section#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1535523418287" expanded="false" signature="61297:62536" ph="..." />
+            <marker date="1535527544911" expanded="false" signature="60847:62086" ph="..." />
           </folding>
         </state>
       </provider>
@@ -782,9 +801,9 @@
           <folding>
             <element signature="n#style#0;n#h3#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#5;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#39733#42427#0" expanded="false" />
+            <element signature="e#39283#41977#0" expanded="false" />
             <element signature="n#section#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1535523418287" expanded="false" signature="61297:62536" ph="..." />
+            <marker date="1535527544911" expanded="false" signature="60847:62086" ph="..." />
           </folding>
         </state>
       </provider>
@@ -871,9 +890,9 @@
           <folding>
             <element signature="n#style#0;n#h3#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#5;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#39733#42427#0" expanded="false" />
+            <element signature="e#39283#41977#0" expanded="false" />
             <element signature="n#section#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1535523418287" expanded="false" signature="61297:62536" ph="..." />
+            <marker date="1535527544911" expanded="false" signature="60847:62086" ph="..." />
           </folding>
         </state>
       </provider>
@@ -998,6 +1017,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/page-404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/about.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
@@ -1017,24 +1052,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/about.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index-4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270">
-          <caret line="827" column="48" lean-forward="true" selection-start-line="827" selection-start-column="48" selection-end-line="827" selection-end-column="48" />
+        <state relative-caret-position="389">
+          <caret line="573" column="48" lean-forward="true" selection-start-line="573" selection-start-column="48" selection-end-line="573" selection-end-column="48" />
           <folding>
             <element signature="n#style#0;n#h3#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#5;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#39733#42427#0" expanded="false" />
+            <element signature="e#39283#41977#0" expanded="false" />
             <element signature="n#section#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1535523418287" expanded="false" signature="61297:62536" ph="..." />
+            <marker date="1535527544911" expanded="false" signature="60847:62086" ph="..." />
           </folding>
         </state>
       </provider>
