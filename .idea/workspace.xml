@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="166935fc-9ca5-4a6e-8a30-0b062fad1ca8" name="Default" comment="产品介绍页面，修改头部和底部">
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/about.css" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change beforePath="$PROJECT_DIR$/css/about.css" afterPath="$PROJECT_DIR$/css/about.css" />
       <change beforePath="$PROJECT_DIR$/index-4.html" afterPath="$PROJECT_DIR$/index-4.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -83,8 +83,8 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="323" column="69" lean-forward="true" selection-start-line="323" selection-start-column="69" selection-end-line="323" selection-end-column="69" />
+            <state relative-caret-position="312">
+              <caret line="696" column="21" lean-forward="false" selection-start-line="696" selection-start-column="21" selection-end-line="696" selection-end-column="21" />
               <folding>
                 <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -95,7 +95,7 @@
                 <element signature="e#18258#21510#0" expanded="false" />
                 <element signature="e#25504#30559#0" expanded="false" />
                 <element signature="n#div#6;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <marker date="1535509137012" expanded="false" signature="16029:16040" ph="..." />
+                <marker date="1535510415210" expanded="false" signature="16029:16040" ph="..." />
               </folding>
             </state>
           </provider>
@@ -104,8 +104,8 @@
       <file leaf-file-name="about.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/about.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            <state relative-caret-position="247">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -189,8 +189,8 @@
         <option value="$PROJECT_DIR$/page-left-navigation.html" />
         <option value="$PROJECT_DIR$/page-left-sidebar.html" />
         <option value="$PROJECT_DIR$/index-4.html" />
-        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/css/about.css" />
+        <option value="$PROJECT_DIR$/about.html" />
       </list>
     </option>
   </component>
@@ -207,8 +207,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="452" />
-    <option name="y" value="223" />
+    <option name="x" value="-6" />
+    <option name="y" value="116" />
     <option name="width" value="1378" />
     <option name="height" value="774" />
   </component>
@@ -318,7 +318,7 @@
       <workItem from="1535417514916" duration="1711000" />
       <workItem from="1535450236564" duration="2704000" />
       <workItem from="1535503872194" duration="697000" />
-      <workItem from="1535507546281" duration="2021000" />
+      <workItem from="1535507546281" duration="3468000" />
     </task>
     <task id="LOCAL-00001" summary="主页划分大概模块，修改主页标题，导航栏内容，及相关内容简介的跳转。">
       <created>1534241965479</created>
@@ -383,11 +383,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535450341497</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="公司概况页面，添加公司经历部分；重写此页面的底部；去掉版本部分；替换font-Awesome为最新版，同时更换旧版图标为新版">
+      <created>1535509676437</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1535509676437</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42278000" />
+    <option name="totallyTimeSpent" value="43725000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -428,7 +435,8 @@
     <MESSAGE value="诚聘英才页面，内容填充及展现形式以及样式调整" />
     <MESSAGE value="诚聘英才页面，页面底部内容及格式修改，与主页保持一致" />
     <MESSAGE value="产品介绍页面，修改头部和底部" />
-    <option name="LAST_COMMIT_MESSAGE" value="产品介绍页面，修改头部和底部" />
+    <MESSAGE value="公司概况页面，添加公司经历部分；重写此页面的底部；去掉版本部分；替换font-Awesome为最新版，同时更换旧版图标为新版" />
+    <option name="LAST_COMMIT_MESSAGE" value="公司概况页面，添加公司经历部分；重写此页面的底部；去掉版本部分；替换font-Awesome为最新版，同时更换旧版图标为新版" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -530,7 +538,7 @@
             <element signature="e#18258#21510#0" expanded="false" />
             <element signature="e#25504#30559#0" expanded="false" />
             <element signature="n#div#6;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1535509137012" expanded="false" signature="16029:16040" ph="..." />
+            <marker date="1535510415210" expanded="false" signature="16029:16040" ph="..." />
           </folding>
         </state>
       </provider>
@@ -637,7 +645,7 @@
             <element signature="e#18258#21510#0" expanded="false" />
             <element signature="e#25504#30559#0" expanded="false" />
             <element signature="n#div#6;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1535509137012" expanded="false" signature="16029:16040" ph="..." />
+            <marker date="1535510415210" expanded="false" signature="16029:16040" ph="..." />
           </folding>
         </state>
       </provider>
@@ -731,7 +739,7 @@
             <element signature="e#18258#21510#0" expanded="false" />
             <element signature="e#25504#30559#0" expanded="false" />
             <element signature="n#div#6;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1535509137012" expanded="false" signature="16029:16040" ph="..." />
+            <marker date="1535510415210" expanded="false" signature="16029:16040" ph="..." />
           </folding>
         </state>
       </provider>
@@ -810,7 +818,7 @@
             <element signature="e#18258#21510#0" expanded="false" />
             <element signature="e#25504#30559#0" expanded="false" />
             <element signature="n#div#6;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1535509137012" expanded="false" signature="16029:16040" ph="..." />
+            <marker date="1535510415210" expanded="false" signature="16029:16040" ph="..." />
           </folding>
         </state>
       </provider>
@@ -988,16 +996,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/about.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        <state relative-caret-position="247">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="323" column="69" lean-forward="true" selection-start-line="323" selection-start-column="69" selection-end-line="323" selection-end-column="69" />
+        <state relative-caret-position="312">
+          <caret line="696" column="21" lean-forward="false" selection-start-line="696" selection-start-column="21" selection-end-line="696" selection-end-column="21" />
           <folding>
             <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -1008,7 +1016,7 @@
             <element signature="e#18258#21510#0" expanded="false" />
             <element signature="e#25504#30559#0" expanded="false" />
             <element signature="n#div#6;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1535509137012" expanded="false" signature="16029:16040" ph="..." />
+            <marker date="1535510415210" expanded="false" signature="16029:16040" ph="..." />
           </folding>
         </state>
       </provider>

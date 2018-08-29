@@ -5,3 +5,10 @@
 .experienceP {
     margin-top: 20px;
 }
+
+.aboutImg {
+    width: 150px;
+    height: 120px;
+    background: #fff;
+    padding: 12px;
+}
