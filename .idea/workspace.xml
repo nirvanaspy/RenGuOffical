@@ -76,13 +76,13 @@
       <file leaf-file-name="page-left-sidebar.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/page-left-sidebar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="244" column="60" lean-forward="true" selection-start-line="244" selection-start-column="60" selection-end-line="244" selection-end-column="60" />
+            <state relative-caret-position="214">
+              <caret line="252" column="24" lean-forward="true" selection-start-line="252" selection-start-column="24" selection-end-line="252" selection-end-column="24" />
               <folding>
                 <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#13456#14098#0" expanded="false" />
-                <element signature="e#17967#22782#0" expanded="false" />
+                <element signature="e#13453#14095#0" expanded="false" />
+                <element signature="e#17964#22779#0" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#article#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#article#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -94,7 +94,7 @@
                 <element signature="n#ul#0;n#div#1;n#article#0;n#div#7;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#52422#53753#0" expanded="false" />
+                <element signature="e#52419#53750#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -126,7 +126,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>navbar</find>
       <find>LEARN</find>
       <find>Recent Works</find>
       <find>About</find>
@@ -156,6 +155,7 @@
       <find>pix</find>
       <find>多功能数字化网络分析平台</find>
       <find>产品介绍</find>
+      <find>proBreadTitle</find>
     </findStrings>
     <replaceStrings>
       <replace>fa fa-search</replace>
@@ -197,10 +197,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="x" value="-72" />
+    <option name="y" value="367" />
+    <option name="width" value="1378" />
+    <option name="height" value="774" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -508,11 +508,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535616584450</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="产品展示页面：添加产品展示的目录搜索">
+      <created>1535617924243</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1535617924243</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67870000" />
+    <option name="totallyTimeSpent" value="67965000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -572,7 +579,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="公司简介页面，添加合作伙伴图片" />
     <MESSAGE value="主页，替换公司简介内容以及联系方式内容。替换主页图标，应用新版的font-Awesome" />
     <MESSAGE value="诚聘英才页面，内容填充及展现形式以及样式调整" />
     <MESSAGE value="诚聘英才页面，页面底部内容及格式修改，与主页保持一致" />
@@ -597,7 +603,8 @@
     <MESSAGE value="产品介绍页面：解决所有产品主宣传图放大的问题，使得放大后仍是原图" />
     <MESSAGE value="主页：&#10;1、替换主页的logo为公司的logo。&#10;2、主页图片放大时的图标替换为新版的font-Awesome中的图标。&#10;3、解决服务领域部分的图片放大问题。" />
     <MESSAGE value="公司概况、资质证书、产品展示、诚聘英才等页面的头部替换，主要是更换公司的logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="公司概况、资质证书、产品展示、诚聘英才等页面的头部替换，主要是更换公司的logo" />
+    <MESSAGE value="产品展示页面：添加产品展示的目录搜索" />
+    <option name="LAST_COMMIT_MESSAGE" value="产品展示页面：添加产品展示的目录搜索" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -707,8 +714,8 @@
           <folding>
             <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#13456#14098#0" expanded="false" />
-            <element signature="e#17967#22782#0" expanded="false" />
+            <element signature="e#13453#14095#0" expanded="false" />
+            <element signature="e#17964#22779#0" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#article#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#article#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -720,7 +727,7 @@
             <element signature="n#ul#0;n#div#1;n#article#0;n#div#7;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#52422#53753#0" expanded="false" />
+            <element signature="e#52419#53750#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -815,8 +822,8 @@
           <folding>
             <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#13456#14098#0" expanded="false" />
-            <element signature="e#17967#22782#0" expanded="false" />
+            <element signature="e#13453#14095#0" expanded="false" />
+            <element signature="e#17964#22779#0" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#article#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#article#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -828,7 +835,7 @@
             <element signature="n#ul#0;n#div#1;n#article#0;n#div#7;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#52422#53753#0" expanded="false" />
+            <element signature="e#52419#53750#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -857,8 +864,8 @@
           <folding>
             <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#13456#14098#0" expanded="false" />
-            <element signature="e#17967#22782#0" expanded="false" />
+            <element signature="e#13453#14095#0" expanded="false" />
+            <element signature="e#17964#22779#0" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#article#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#article#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -870,7 +877,7 @@
             <element signature="n#ul#0;n#div#1;n#article#0;n#div#7;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#52422#53753#0" expanded="false" />
+            <element signature="e#52419#53750#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -929,8 +936,8 @@
           <folding>
             <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#13456#14098#0" expanded="false" />
-            <element signature="e#17967#22782#0" expanded="false" />
+            <element signature="e#13453#14095#0" expanded="false" />
+            <element signature="e#17964#22779#0" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#article#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#article#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -942,7 +949,7 @@
             <element signature="n#ul#0;n#div#1;n#article#0;n#div#7;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#52422#53753#0" expanded="false" />
+            <element signature="e#52419#53750#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1162,13 +1169,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/page-left-sidebar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="244" column="60" lean-forward="true" selection-start-line="244" selection-start-column="60" selection-end-line="244" selection-end-column="60" />
+        <state relative-caret-position="214">
+          <caret line="252" column="24" lean-forward="true" selection-start-line="252" selection-start-column="24" selection-end-line="252" selection-end-column="24" />
           <folding>
             <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#13456#14098#0" expanded="false" />
-            <element signature="e#17967#22782#0" expanded="false" />
+            <element signature="e#13453#14095#0" expanded="false" />
+            <element signature="e#17964#22779#0" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#article#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#article#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -1180,7 +1187,7 @@
             <element signature="n#ul#0;n#div#1;n#article#0;n#div#7;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#52422#53753#0" expanded="false" />
+            <element signature="e#52419#53750#0" expanded="false" />
           </folding>
         </state>
       </provider>
