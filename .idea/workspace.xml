@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="166935fc-9ca5-4a6e-8a30-0b062fad1ca8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/page-left-navigation.html" afterPath="$PROJECT_DIR$/page-left-navigation.html" />
+      <change beforePath="$PROJECT_DIR$/index-4.html" afterPath="$PROJECT_DIR$/index-4.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index-4.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index-4.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index-4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="160" column="32" lean-forward="false" selection-start-line="160" selection-start-column="32" selection-end-line="160" selection-end-column="32" />
+            <state relative-caret-position="-602">
+              <caret line="679" column="81" lean-forward="false" selection-start-line="679" selection-start-column="81" selection-end-line="679" selection-end-column="81" />
               <folding>
                 <element signature="e#2842#3654#0" expanded="false" />
                 <element signature="n#style#0;n#ul#0;n#li#2;n#ul#0;n#nav#0;n#div#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -62,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page-left-navigation.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="page-left-navigation.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page-left-navigation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="240" column="47" lean-forward="false" selection-start-line="240" selection-start-column="47" selection-end-line="240" selection-end-column="47" />
+            <state relative-caret-position="342">
+              <caret line="252" column="68" lean-forward="false" selection-start-line="252" selection-start-column="68" selection-end-line="252" selection-end-column="68" />
               <folding>
                 <element signature="e#9103#10855#0" expanded="false" />
                 <element signature="n#style#0;n#h4#0;n#div#1;n#article#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -177,8 +177,8 @@
         <option value="$PROJECT_DIR$/page-left-sidebar.html" />
         <option value="$PROJECT_DIR$/testimonials.html" />
         <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/index-4.html" />
         <option value="$PROJECT_DIR$/page-left-navigation.html" />
+        <option value="$PROJECT_DIR$/index-4.html" />
       </list>
     </option>
   </component>
@@ -309,7 +309,7 @@
       <workItem from="1535507546281" duration="20339000" />
       <workItem from="1535589258684" duration="5333000" />
       <workItem from="1535676526870" duration="389000" />
-      <workItem from="1535695219537" duration="4433000" />
+      <workItem from="1535695219537" duration="4723000" />
     </task>
     <task id="LOCAL-00001" summary="主页划分大概模块，修改主页标题，导航栏内容，及相关内容简介的跳转。">
       <created>1534241965479</created>
@@ -542,11 +542,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535706798263</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="诚聘英才页面：诚聘英才模块左侧导航栏替换">
+      <created>1535707348721</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1535707348721</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75582000" />
+    <option name="totallyTimeSpent" value="75872000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="0" width="1378" height="775" extended-state="0" />
@@ -596,7 +603,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="公司概况页面，添加公司经历部分；重写此页面的底部；去掉版本部分；替换font-Awesome为最新版，同时更换旧版图标为新版" />
     <MESSAGE value="公司概况页面，调整合作伙伴图片样式" />
     <MESSAGE value="主页，修改电话及邮箱图标" />
     <MESSAGE value="主页轮播图片中的内容修改为公司相关的内容" />
@@ -621,7 +627,8 @@
     <MESSAGE value="产品展示页面、资质证书页面、诚聘英才页面的回到顶端的图标修改为新版的font-Awesome的图标" />
     <MESSAGE value="产品展示页面、资质证书页面、诚聘英才页面去掉最顶部电话邮箱右侧的其他图标标志" />
     <MESSAGE value="主页：头部导航标题中的二级标题不要换行" />
-    <option name="LAST_COMMIT_MESSAGE" value="主页：头部导航标题中的二级标题不要换行" />
+    <MESSAGE value="诚聘英才页面：诚聘英才模块左侧导航栏替换" />
+    <option name="LAST_COMMIT_MESSAGE" value="诚聘英才页面：诚聘英才模块左侧导航栏替换" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1136,17 +1143,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index-4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="160" column="32" lean-forward="false" selection-start-line="160" selection-start-column="32" selection-end-line="160" selection-end-column="32" />
-          <folding>
-            <element signature="e#2842#3654#0" expanded="false" />
-            <element signature="n#style#0;n#ul#0;n#li#2;n#ul#0;n#nav#0;n#div#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/page-left-sidebar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1161">
@@ -1173,8 +1169,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/page-left-navigation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="240" column="47" lean-forward="false" selection-start-line="240" selection-start-column="47" selection-end-line="240" selection-end-column="47" />
+        <state relative-caret-position="342">
+          <caret line="252" column="68" lean-forward="false" selection-start-line="252" selection-start-column="68" selection-end-line="252" selection-end-column="68" />
           <folding>
             <element signature="e#9103#10855#0" expanded="false" />
             <element signature="n#style#0;n#h4#0;n#div#1;n#article#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1186,6 +1182,17 @@
             <element signature="n#section#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="e#19232#20563#0" expanded="false" />
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-602">
+          <caret line="679" column="81" lean-forward="false" selection-start-line="679" selection-start-column="81" selection-end-line="679" selection-end-column="81" />
+          <folding>
+            <element signature="e#2842#3654#0" expanded="false" />
+            <element signature="n#style#0;n#ul#0;n#li#2;n#ul#0;n#nav#0;n#div#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
