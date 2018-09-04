@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="166935fc-9ca5-4a6e-8a30-0b062fad1ca8" name="Default" comment="资质证书图片：资质证书图片样式替换，增加资质证书图片，调整样式。">
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/一体化运维与管理平台.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/协议编辑与管理工具.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/即时通讯软件.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/多功能数字化网络分析平台.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/嵌入式图型化解决方案和应用.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/网络监控管理平台.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/product/面向领域的复杂系统建模平台.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/img/product/一体化运维平台主页.png" afterPath="$PROJECT_DIR$/img/product2/一体化运维平台主页.png" />
-      <change beforePath="$PROJECT_DIR$/img/product/基于中标麒麟操作系统1.jpg" afterPath="$PROJECT_DIR$/img/product2/基于中标麒麟操作系统1.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/product/基于中标麒麟操作系统2.jpg" afterPath="$PROJECT_DIR$/img/product2/基于中标麒麟操作系统2.jpg" />
-      <change beforePath="$PROJECT_DIR$/img/product/多功能数字化网络分析平台.png" afterPath="$PROJECT_DIR$/img/product2/多功能数字化网络分析平台.png" />
-      <change beforePath="$PROJECT_DIR$/img/product/嵌入式图形化解决方案和应用开发1.png" afterPath="$PROJECT_DIR$/img/product2/嵌入式图形化解决方案和应用开发1.png" />
-      <change beforePath="$PROJECT_DIR$/img/product/嵌入式图形化解决方案和应用开发2.png" afterPath="$PROJECT_DIR$/img/product2/嵌入式图形化解决方案和应用开发2.png" />
-      <change beforePath="$PROJECT_DIR$/img/product/指挥中心内部通信.png" afterPath="$PROJECT_DIR$/img/product2/指挥中心内部通信.png" />
-      <change beforePath="$PROJECT_DIR$/img/product/装备与装备通信.png" afterPath="$PROJECT_DIR$/img/product2/装备与装备通信.png" />
-      <change beforePath="$PROJECT_DIR$/img/product/跨指挥中心通信.png" afterPath="$PROJECT_DIR$/img/product2/跨指挥中心通信.png" />
       <change beforePath="$PROJECT_DIR$/index-4.html" afterPath="$PROJECT_DIR$/index-4.html" />
       <change beforePath="$PROJECT_DIR$/page-left-sidebar.html" afterPath="$PROJECT_DIR$/page-left-sidebar.html" />
     </list>
@@ -116,8 +100,8 @@
       <file leaf-file-name="page-left-sidebar.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/page-left-sidebar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="646" column="38" lean-forward="true" selection-start-line="646" selection-start-column="38" selection-end-line="646" selection-end-column="38" />
+            <state relative-caret-position="60">
+              <caret line="632" column="85" lean-forward="true" selection-start-line="632" selection-start-column="85" selection-end-line="632" selection-end-column="85" />
               <folding>
                 <element signature="n#nav#0;n#div#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#ul#0;n#li#2;n#ul#0;n#nav#0;n#div#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -127,8 +111,6 @@
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#article#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#article#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#article#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#article#0;n#div#4;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#5;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#6;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#7;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -136,7 +118,7 @@
                 <element signature="n#ul#0;n#div#1;n#article#0;n#div#7;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#51606#52937#0" expanded="false" />
+                <element signature="e#52702#54033#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -250,8 +232,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="7" />
+    <option name="x" value="-24" />
+    <option name="y" value="77" />
     <option name="width" value="1382" />
     <option name="height" value="784" />
   </component>
@@ -392,14 +374,7 @@
       <workItem from="1535695219537" duration="7243000" />
       <workItem from="1535935858142" duration="9149000" />
       <workItem from="1536027254792" duration="319000" />
-      <workItem from="1536027585028" duration="12528000" />
-    </task>
-    <task id="LOCAL-00001" summary="主页划分大概模块，修改主页标题，导航栏内容，及相关内容简介的跳转。">
-      <created>1534241965479</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1534241965479</updated>
+      <workItem from="1536027585028" duration="13953000" />
     </task>
     <task id="LOCAL-00002" summary="其他相关页面修改导航栏内容、标题以及面包导航">
       <created>1534242014252</created>
@@ -737,14 +712,21 @@
       <option name="project" value="LOCAL" />
       <updated>1536046546626</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="1、添加新的产品宣传图片；&#10;2、产品页面：替换七个产品的产品宣传图片。">
+      <created>1536049205114</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1536049205114</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100388000" />
+    <option name="totallyTimeSpent" value="101813000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="7" width="1382" height="784" extended-state="0" />
+    <frame x="-24" y="77" width="1382" height="784" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24851191" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -791,7 +773,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="产品介绍页面：完成面向领域的复杂系统建模平台产品的介绍页面，暂时缺少特点，性能以及典型应用" />
     <MESSAGE value="产品介绍页面：替换所有产品主宣传图上的图标为新版font-Awesome的图标" />
     <MESSAGE value="产品介绍页面：解决所有产品主宣传图放大的问题，使得放大后仍是原图" />
     <MESSAGE value="主页：&#10;1、替换主页的logo为公司的logo。&#10;2、主页图片放大时的图标替换为新版的font-Awesome中的图标。&#10;3、解决服务领域部分的图片放大问题。" />
@@ -816,7 +797,8 @@
     <MESSAGE value="公司概况页面：替换公司概况页面的公司简介图片。" />
     <MESSAGE value="公司概况页面：首页轮播图替换" />
     <MESSAGE value="资质证书图片：资质证书图片样式替换，增加资质证书图片，调整样式。" />
-    <option name="LAST_COMMIT_MESSAGE" value="资质证书图片：资质证书图片样式替换，增加资质证书图片，调整样式。" />
+    <MESSAGE value="1、添加新的产品宣传图片；&#10;2、产品页面：替换七个产品的产品宣传图片。" />
+    <option name="LAST_COMMIT_MESSAGE" value="1、添加新的产品宣传图片；&#10;2、产品页面：替换七个产品的产品宣传图片。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -874,8 +856,6 @@
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#article#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#article#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#article#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#article#0;n#div#4;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#5;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#6;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#7;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -883,7 +863,7 @@
             <element signature="n#ul#0;n#div#1;n#article#0;n#div#7;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#51606#52937#0" expanded="false" />
+            <element signature="e#52702#54033#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -993,8 +973,6 @@
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#article#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#article#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#article#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#article#0;n#div#4;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#5;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#6;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#7;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -1002,7 +980,7 @@
             <element signature="n#ul#0;n#div#1;n#article#0;n#div#7;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#51606#52937#0" expanded="false" />
+            <element signature="e#52702#54033#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1046,8 +1024,6 @@
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#article#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#article#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#article#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#article#0;n#div#4;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#5;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#6;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#7;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -1055,7 +1031,7 @@
             <element signature="n#ul#0;n#div#1;n#article#0;n#div#7;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#51606#52937#0" expanded="false" />
+            <element signature="e#52702#54033#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1130,8 +1106,6 @@
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#article#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#article#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#article#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#article#0;n#div#4;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#5;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#6;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#7;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -1139,7 +1113,7 @@
             <element signature="n#ul#0;n#div#1;n#article#0;n#div#7;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#51606#52937#0" expanded="false" />
+            <element signature="e#52702#54033#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1423,8 +1397,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/page-left-sidebar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="646" column="38" lean-forward="true" selection-start-line="646" selection-start-column="38" selection-end-line="646" selection-end-column="38" />
+        <state relative-caret-position="60">
+          <caret line="632" column="85" lean-forward="true" selection-start-line="632" selection-start-column="85" selection-end-line="632" selection-end-column="85" />
           <folding>
             <element signature="n#nav#0;n#div#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#ul#0;n#li#2;n#ul#0;n#nav#0;n#div#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1434,8 +1408,6 @@
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#article#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#article#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#article#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#article#0;n#div#4;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#5;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#6;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#7;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -1443,7 +1415,7 @@
             <element signature="n#ul#0;n#div#1;n#article#0;n#div#7;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#51606#52937#0" expanded="false" />
+            <element signature="e#52702#54033#0" expanded="false" />
           </folding>
         </state>
       </provider>
