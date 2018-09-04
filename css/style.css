@@ -48,6 +48,13 @@ h3.title:after {
     width: 99%;
 }
 
+/* xy start*/
+.portfolio-item-title a.proShow {
+    color: #0488cd;
+    text-decoration-line: underline;
+}
+/* xy end*/
+
 .our-clients h3.title:after, .service-reasons h3.title:after {
     background: none;
 }
