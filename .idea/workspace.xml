@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="166935fc-9ca5-4a6e-8a30-0b062fad1ca8" name="Default" comment="公司概况页面：替换公司概况页面的公司简介图片。">
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/slider/首页图2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/slider/首页图片.jpg" />
+    <list default="true" id="166935fc-9ca5-4a6e-8a30-0b062fad1ca8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/index-4.html" afterPath="$PROJECT_DIR$/index-4.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -374,7 +371,7 @@
       <workItem from="1535695219537" duration="7243000" />
       <workItem from="1535935858142" duration="9149000" />
       <workItem from="1536027254792" duration="319000" />
-      <workItem from="1536027585028" duration="7910000" />
+      <workItem from="1536027585028" duration="8100000" />
     </task>
     <task id="LOCAL-00001" summary="主页划分大概模块，修改主页标题，导航栏内容，及相关内容简介的跳转。">
       <created>1534241965479</created>
@@ -698,11 +695,18 @@
       <option name="project" value="LOCAL" />
       <updated>1536041423692</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="公司概况页面：首页轮播图替换">
+      <created>1536044334569</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1536044334569</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95770000" />
+    <option name="totallyTimeSpent" value="95960000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="72" width="1382" height="784" extended-state="0" />
@@ -752,7 +756,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="产品介绍页面：完成协议编辑管理工具产品的介绍页面，新增加了特点，性能以及典型应用,添加此产品的图片并调整图片样式" />
     <MESSAGE value="产品介绍页面：完成一体化运维管理平台产品的介绍页面，新增加了特点，性能以及典型应用,添加此产品的图片并调整图片样式" />
     <MESSAGE value="产品介绍页面：完成面向领域的复杂系统建模平台产品的介绍页面，暂时缺少特点，性能以及典型应用" />
     <MESSAGE value="产品介绍页面：替换所有产品主宣传图上的图标为新版font-Awesome的图标" />
@@ -777,7 +780,8 @@
     <MESSAGE value="主页：去掉产品简介和解决方案模块" />
     <MESSAGE value="主页：底部去掉资质、简介部分。" />
     <MESSAGE value="公司概况页面：替换公司概况页面的公司简介图片。" />
-    <option name="LAST_COMMIT_MESSAGE" value="公司概况页面：替换公司概况页面的公司简介图片。" />
+    <MESSAGE value="公司概况页面：首页轮播图替换" />
+    <option name="LAST_COMMIT_MESSAGE" value="公司概况页面：首页轮播图替换" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
