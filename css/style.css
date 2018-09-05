@@ -59,6 +59,11 @@ h3.title:after {
     text-align: center;
     color: #fff;
 }
+
+footer .contact-us li > a:hover {
+    color: #0488cd !important;
+    text-decoration-line: underline;
+}
 /* xy end*/
 
 .our-clients h3.title:after, .service-reasons h3.title:after {
