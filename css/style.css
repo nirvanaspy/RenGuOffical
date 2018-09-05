@@ -53,6 +53,12 @@ h3.title:after {
     color: #0488cd;
     text-decoration-line: underline;
 }
+
+.clientName {
+    font-size: 12px;
+    text-align: center;
+    color: #fff;
+}
 /* xy end*/
 
 .our-clients h3.title:after, .service-reasons h3.title:after {
