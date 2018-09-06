@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="166935fc-9ca5-4a6e-8a30-0b062fad1ca8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/team/公司简介.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/team/产品研发.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/team/办公室.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/team/民品.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/team/装备部.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/team/财务.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change beforePath="$PROJECT_DIR$/css/about.css" afterPath="$PROJECT_DIR$/css/about.css" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -90,17 +92,17 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="314" column="49" lean-forward="false" selection-start-line="314" selection-start-column="49" selection-end-line="314" selection-end-column="49" />
+            <state relative-caret-position="181">
+              <caret line="574" column="76" lean-forward="true" selection-start-line="574" selection-start-column="76" selection-end-line="574" selection-end-column="76" />
               <folding>
                 <element signature="e#5043#6479#0" expanded="false" />
                 <element signature="n#style#0;n#ul#0;n#li#2;n#ul#0;n#nav#0;n#div#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#9268#11020#0" expanded="false" />
                 <element signature="e#17534#20786#0" expanded="false" />
                 <element signature="e#24780#29835#0" expanded="false" />
-                <element signature="n#div#6;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <marker date="1536195754166" expanded="false" signature="15122:15133" ph="..." />
+                <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <marker date="1536199327917" expanded="false" signature="15122:15133" ph="..." />
               </folding>
             </state>
           </provider>
@@ -281,9 +283,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-14" />
-    <option name="y" value="70" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="179" />
+    <option name="y" value="53" />
     <option name="width" value="1382" />
     <option name="height" value="721" />
   </component>
@@ -313,12 +315,6 @@
               <item name="RenGuOffical" type="b2602c69:ProjectViewProjectNode" />
               <item name="RenGuOffical" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RenGuOffical" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RenGuOffical" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="logo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RenGuOffical" type="b2602c69:ProjectViewProjectNode" />
@@ -414,14 +410,7 @@
       <workItem from="1536027254792" duration="319000" />
       <workItem from="1536027585028" duration="18850000" />
       <workItem from="1536107732107" duration="19213000" />
-      <workItem from="1536194744623" duration="1429000" />
-    </task>
-    <task id="LOCAL-00008" summary="诚聘英才页面，页面底部内容及格式修改，与主页保持一致">
-      <created>1535364618375</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1535364618375</updated>
+      <workItem from="1536194744623" duration="3931000" />
     </task>
     <task id="LOCAL-00009" summary="产品介绍页面，修改头部和底部">
       <created>1535450341497</created>
@@ -759,14 +748,21 @@
       <option name="project" value="LOCAL" />
       <updated>1536137128519</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="公司概况页面：公司经历改成公司大事记。公司大事记中的文字内容分行显示。">
+      <created>1536197548329</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1536197548329</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127352000" />
+    <option name="totallyTimeSpent" value="129854000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-14" y="70" width="1382" height="721" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24851191" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -779,7 +775,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2739726" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24729522" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -813,7 +809,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="产品展示页面、资质证书页面、诚聘英才页面的回到顶端的图标修改为新版的font-Awesome的图标" />
     <MESSAGE value="产品展示页面、资质证书页面、诚聘英才页面去掉最顶部电话邮箱右侧的其他图标标志" />
     <MESSAGE value="主页：头部导航标题中的二级标题不要换行" />
     <MESSAGE value="诚聘英才页面：诚聘英才模块左侧导航栏替换" />
@@ -838,7 +833,8 @@
     <MESSAGE value="主页：首页两张轮播图替换,调整轮播图上字体的样式" />
     <MESSAGE value="主页：首页轮播图上的电脑手机等三张图片替换" />
     <MESSAGE value="主页：底部内容改为四大模块，以及划分为的各个小模块。调整样式，实现各模块的跳转。" />
-    <option name="LAST_COMMIT_MESSAGE" value="主页：底部内容改为四大模块，以及划分为的各个小模块。调整样式，实现各模块的跳转。" />
+    <MESSAGE value="公司概况页面：公司经历改成公司大事记。公司大事记中的文字内容分行显示。" />
+    <option name="LAST_COMMIT_MESSAGE" value="公司概况页面：公司经历改成公司大事记。公司大事记中的文字内容分行显示。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -941,9 +937,9 @@
             <element signature="e#9268#11020#0" expanded="false" />
             <element signature="e#17534#20786#0" expanded="false" />
             <element signature="e#24780#29835#0" expanded="false" />
-            <element signature="n#div#6;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1536195754166" expanded="false" signature="15122:15133" ph="..." />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1536199327917" expanded="false" signature="15122:15133" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1064,9 +1060,9 @@
             <element signature="e#9268#11020#0" expanded="false" />
             <element signature="e#17534#20786#0" expanded="false" />
             <element signature="e#24780#29835#0" expanded="false" />
-            <element signature="n#div#6;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1536195754166" expanded="false" signature="15122:15133" ph="..." />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1536199327917" expanded="false" signature="15122:15133" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1170,9 +1166,9 @@
             <element signature="e#9268#11020#0" expanded="false" />
             <element signature="e#17534#20786#0" expanded="false" />
             <element signature="e#24780#29835#0" expanded="false" />
-            <element signature="n#div#6;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1536195754166" expanded="false" signature="15122:15133" ph="..." />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1536199327917" expanded="false" signature="15122:15133" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1486,17 +1482,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="314" column="49" lean-forward="false" selection-start-line="314" selection-start-column="49" selection-end-line="314" selection-end-column="49" />
+        <state relative-caret-position="181">
+          <caret line="574" column="76" lean-forward="true" selection-start-line="574" selection-start-column="76" selection-end-line="574" selection-end-column="76" />
           <folding>
             <element signature="e#5043#6479#0" expanded="false" />
             <element signature="n#style#0;n#ul#0;n#li#2;n#ul#0;n#nav#0;n#div#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#9268#11020#0" expanded="false" />
             <element signature="e#17534#20786#0" expanded="false" />
             <element signature="e#24780#29835#0" expanded="false" />
-            <element signature="n#div#6;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1536195754166" expanded="false" signature="15122:15133" ph="..." />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1536199327917" expanded="false" signature="15122:15133" ph="..." />
           </folding>
         </state>
       </provider>
