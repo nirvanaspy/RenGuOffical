@@ -41,6 +41,11 @@
       <!--[if IE]>
       <link rel="stylesheet" href="css/ie.css">
       <![endif]-->
+       <style>
+           .posts-block {
+               display: none;
+           }
+       </style>
    </head>
    <body class="page">
       <div class="wrap">
@@ -240,14 +245,14 @@
                         <div class="widget category">
                            <h3 class="title">招聘职位</h3>
                            <ul class="category-list slide">
-                              <li><a href="#">Java软件开发工程师</a></li>
-                              <li><a href="#">C++软件研发工程师</a></li>
+                              <li><a href="page-left-navigation.html?certificate=0">Java软件开发工程师</a></li>
+                              <li><a href="page-left-navigation.html?certificate=1">C++软件研发工程师</a></li>
                            </ul>
                         </div>
                         <!-- Left nav Widget End -->
                      </div>
-                     <!-- Sidebar End -->
-                     <div class="posts-block col-lg-9 col-md-9 col-sm-8 col-xs-12">
+                     <!-- Java软件开发工程师 -->
+                     <div class="posts-block col-lg-9 col-md-9 col-sm-8 col-xs-12" id="certificate0">
                         <article class="post hentry">
                            <div class="post-image">
                               <a href="img/blog/blog-post3.jpg" data-rel="prettyPhoto">
@@ -288,39 +293,53 @@
                                <p>
                                   7、有互联网产品开发经验者优先。
                               </p>
-
-                               <!-- C++招聘 -->
-                               <h4 style="color: #0488cd;margin-top: 30px;" >C++软件研发工程师</h4>
-                               <h4 style="margin-top: 20px;">岗位职责</h4>
-                               <p>
-                                   1、主要负公司产品的开发工作。
-                               </p>
-                               <p>
-                                   2、参与软件全生命周期的管理工作，包括需求分析、设计、开发、测试等。
-                               </p>
-                               <p>
-                                   3、根据项目进度，按时完成代码编写、单元测试、调试、代码维护工作。
-                               </p>
-                               <h4>任职要求</h4>
-                               <p>
-                                   1、熟悉C/C++，STL，能够独立编写稳定高效代码。
-                               </p>
-                               <p>
-                                   2、熟悉TCP/IP协议及Socket编程。
-                               </p>
-                               <p>
-                                   3、熟悉QT编程，可运用QT的Api进行软件开发。
-                               </p>
-                               <p>
-                                   4、良好的沟通能力和积极向上的工作态度,有较强的责任感。
-                               </p>
-                               <p>
-                                   5、对技术满热情，有团队合作精神。
-                               </p>
                            </div>
                         </article>
                      </div>
                      <!-- Left Section End -->
+                      <!-- C++软件研发工程师 -->
+                      <div class="posts-block col-lg-9 col-md-9 col-sm-8 col-xs-12" id="certificate1">
+                          <article class="post hentry">
+                              <div class="post-image">
+                                  <a href="img/blog/blog-post3.jpg" data-rel="prettyPhoto">
+                                      <span class="img-hover"></span>
+                                      <span class="fullscreen"><i class="fa fa-search"></i></span>
+                                      <img src="img/blog/blog-post3.jpg" alt="">
+                                  </a>
+                              </div>
+                              <div class="post-content">
+                                  <!-- C++招聘 -->
+                                  <h4 style="color: #0488cd;margin-top: 30px;" >C++软件研发工程师</h4>
+                                  <h4 style="margin-top: 20px;">岗位职责</h4>
+                                  <p>
+                                      1、主要负公司产品的开发工作。
+                                  </p>
+                                  <p>
+                                      2、参与软件全生命周期的管理工作，包括需求分析、设计、开发、测试等。
+                                  </p>
+                                  <p>
+                                      3、根据项目进度，按时完成代码编写、单元测试、调试、代码维护工作。
+                                  </p>
+                                  <h4>任职要求</h4>
+                                  <p>
+                                      1、熟悉C/C++，STL，能够独立编写稳定高效代码。
+                                  </p>
+                                  <p>
+                                      2、熟悉TCP/IP协议及Socket编程。
+                                  </p>
+                                  <p>
+                                      3、熟悉QT编程，可运用QT的Api进行软件开发。
+                                  </p>
+                                  <p>
+                                      4、良好的沟通能力和积极向上的工作态度,有较强的责任感。
+                                  </p>
+                                  <p>
+                                      5、对技术满热情，有团队合作精神。
+                                  </p>
+                              </div>
+                          </article>
+                      </div>
+                      <!-- Left Section End -->
                   </div>
                </div>
             </div>
@@ -471,4 +490,26 @@
       <script src="js/custom.js"></script>
    
 </body>
+<script>
+    window.onload = function (ev) {
+        var certificateId = getUrlParam('certificate')
+        var certificateDomId = '#certificate' + certificateId
+        $(certificateDomId).css('display', 'block')
+        if(certificateId == '0') {
+            $('#proTitle').html('Java软件开发工程师')
+            $('#proBreadTitle').html('Java软件开发工程师')
+        }
+        if(certificateId == '1') {
+            $('#proTitle').html('C++软件研发工程师')
+            $('#proBreadTitle').html('C++软件研发工程师')
+        }
+    }
+
+    // 取得url参数
+    function getUrlParam(name) {
+        var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)"); // 构造一个含有目标参数的正则表达式对象
+        var r = window.location.search.substr(1).match(reg);  // 匹配目标参数
+        if (r != null) return unescape(r[2]); return null; // 返回参数值
+    }
+</script>
 </html>
