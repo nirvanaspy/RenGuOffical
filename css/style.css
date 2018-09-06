@@ -64,6 +64,10 @@ footer .contact-us li > a:hover {
     color: #0488cd !important;
     text-decoration-line: underline;
 }
+
+.contact-box p.experienceP {
+    text-align: left !important;
+}
 /* xy end*/
 
 .our-clients h3.title:after, .service-reasons h3.title:after {
