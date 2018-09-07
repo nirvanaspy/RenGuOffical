@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="166935fc-9ca5-4a6e-8a30-0b062fad1ca8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/page-left-sidebar.html" afterPath="$PROJECT_DIR$/page-left-sidebar.html" />
+      <change beforePath="$PROJECT_DIR$/img/team/民品.png" afterPath="$PROJECT_DIR$/img/team/民品.png" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -116,8 +116,8 @@
       <file leaf-file-name="page-left-sidebar.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/page-left-sidebar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="787" column="63" lean-forward="true" selection-start-line="787" selection-start-column="63" selection-end-line="787" selection-end-column="63" />
+            <state relative-caret-position="323">
+              <caret line="799" column="40" lean-forward="true" selection-start-line="799" selection-start-column="40" selection-end-line="799" selection-end-column="40" />
               <folding>
                 <element signature="n#nav#0;n#div#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#ul#0;n#li#2;n#ul#0;n#nav#0;n#div#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -301,7 +301,7 @@
               <item name="RenGuOffical" type="b2602c69:ProjectViewProjectNode" />
               <item name="RenGuOffical" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="certificate" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -393,14 +393,7 @@
       <workItem from="1536194744623" duration="17590000" />
       <workItem from="1536280414085" duration="2831000" />
       <workItem from="1536283379954" duration="214000" />
-      <workItem from="1536283841001" duration="5294000" />
-    </task>
-    <task id="LOCAL-00023" summary="产品介绍页面：完成一体化运维管理平台产品的介绍页面，新增加了特点，性能以及典型应用,添加此产品的图片并调整图片样式">
-      <created>1535593205941</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1535593205941</updated>
+      <workItem from="1536283841001" duration="6661000" />
     </task>
     <task id="LOCAL-00024" summary="产品介绍页面：完成面向领域的复杂系统建模平台产品的介绍页面，暂时缺少特点，性能以及典型应用">
       <created>1535593761949</created>
@@ -738,11 +731,18 @@
       <option name="project" value="LOCAL" />
       <updated>1536288707074</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="产品页面：添加一体化运维与管理平台的性能介绍。">
+      <created>1536290872384</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1536290872384</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151852000" />
+    <option name="totallyTimeSpent" value="153219000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -793,7 +793,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="公司概况页面：替换公司概况页面的公司简介图片。" />
     <MESSAGE value="公司概况页面：首页轮播图替换" />
     <MESSAGE value="资质证书图片：资质证书图片样式替换，增加资质证书图片，调整样式。" />
     <MESSAGE value="1、添加新的产品宣传图片；&#10;2、产品页面：替换七个产品的产品宣传图片。" />
@@ -818,7 +817,8 @@
     <MESSAGE value="所有页面：所有页面的底部与主页底部保持一致。" />
     <MESSAGE value="产品页面：多功能数字化网络分析平台产品的特点、功能、性能、典型应用等加上样式" />
     <MESSAGE value="产品页面：完成所有产品的特点、功能、性能、典型应用等加上样式" />
-    <option name="LAST_COMMIT_MESSAGE" value="产品页面：完成所有产品的特点、功能、性能、典型应用等加上样式" />
+    <MESSAGE value="产品页面：添加一体化运维与管理平台的性能介绍。" />
+    <option name="LAST_COMMIT_MESSAGE" value="产品页面：添加一体化运维与管理平台的性能介绍。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1460,8 +1460,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/page-left-sidebar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="787" column="63" lean-forward="true" selection-start-line="787" selection-start-column="63" selection-end-line="787" selection-end-column="63" />
+        <state relative-caret-position="323">
+          <caret line="799" column="40" lean-forward="true" selection-start-line="799" selection-start-column="40" selection-end-line="799" selection-end-column="40" />
           <folding>
             <element signature="n#nav#0;n#div#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#ul#0;n#li#2;n#ul#0;n#nav#0;n#div#0;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
