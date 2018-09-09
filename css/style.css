@@ -53,6 +53,62 @@ h3.title:after {
     color: #0488cd;
     text-decoration-line: underline;
 }
+
+.clientName {
+    font-size: 12px;
+    text-align: center;
+    color: #fff;
+}
+
+footer .aboutUs li > a:hover {
+    color: #0488cd !important;
+    text-decoration-line: underline;
+}
+
+.contact-box p.experienceP {
+    text-align: left !important;
+}
+
+/*产品页面样式*/
+.productPoint {
+    color: #EE6363;
+}
+
+.productPointUl {
+    background: rgba(238,213,183,0.2);
+    padding:  5px 10px;
+    border-radius: 4px;
+}
+
+.pointCapability {
+    color: #FFD700;
+}
+
+.pointCapabilityUl {
+    background: rgba(255,246,143,0.2);
+    padding:  5px 10px;
+    border-radius: 4px;
+}
+
+.productFunction {
+    color: #1E90FF;
+}
+
+.productFunctionUl {
+    background: rgba(135,206,250,0.1);
+    padding:  5px 10px;
+    border-radius: 4px;
+}
+
+.productUse {
+    color: #FF7F00;
+}
+
+.productUseUl {
+    background: rgba(255,160,122,0.1);
+    padding:  5px 10px;
+    border-radius: 4px;
+}
 /* xy end*/
 
 .our-clients h3.title:after, .service-reasons h3.title:after {
